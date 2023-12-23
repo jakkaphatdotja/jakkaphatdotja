@@ -13,7 +13,7 @@ I'm a fourth-year computer engineering student passionate about technology, app 
   
 * ✉️  You can contact me at [jakkaphat.ja@gmail.com](mailto:jakkaphat.ja@gmail.com)
   
-* 🧠  I’m currently learning **Go Fiber**
+* 🧠  I’m currently learning **Go Fiber (Golang)**
 
 
 
