@@ -4,7 +4,6 @@ I'm a fourth-year computer engineering student passionate about technology, app 
 
 <br><br>
 
-<img align="right" alt=".gif" width="350" style="padding: 100px;" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakkaphatdotja&label=Profile%20views&color=0e75b6&style=flat" alt="jakkaphatdotja" /> </p>
 
 * 🌍  I’m based in Bangkok, Thailand
